@@ -3,6 +3,8 @@ Payple 링크결제를 다양하게 활용해보세요.<br><br>
 링크결제는 **별도의 개발이 필요없습니다.** <br><br>
 Payple 관라지화면에서 가입즉시 이용 가능합니다.<br><br>
 
+{% include youtube.html id="https://www.youtube.com/embed/skw1PbfHJnE" %}  
+
 ## 화면 구성 
 ![링크결제 관리자화면](img/link_main.png "링크결제 관리자화면")
 >링크결제 관리자화면
