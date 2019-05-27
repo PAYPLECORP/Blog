@@ -30,7 +30,7 @@
 
 
 ## 설정 - 슬랙으로 결제 리포트 알림 받기 
-팀에서 슬랙을 이용하신다면 매일 오전 9시에 전일 결제 리포트를 받아보실 수 있습니다.<br><br>
+팀에서 슬랙을 이용하신다면 매일 오전 9시에 어제의 결제 리포트를 받아보실 수 있습니다.<br><br>
 설정을 위해서는 슬랙 Workspace, Channel, Username, Token 입력이 필요합니다.<br>
 * Workspace : 팀에서 이용 중인 슬랙 Workspace를 입력해주세요. (예: payple.slack.com 에서 payple 이 Workspace 입니다.)<br>
 * Channel : 알림을 받을 채널을 입력해주세요. (예: # 뒤의 채널명을 입력해주세요. general, random 등)<br>
