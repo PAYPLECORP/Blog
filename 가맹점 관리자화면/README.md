@@ -42,7 +42,7 @@
 -OAuth Tokens은 신규 이용자가 이용할 수 있습니다.
 
 
-## 슬랙으로 결제 리포트 알림 받기 - Legacy Tokens 생성 및 등록방법
+## Legacy Tokens 생성 및 등록방법
 [Slack Legacy Tokens](https://api.slack.com/custom-integrations/legacy-tokens)에서 생성이 가능합니다.<br><br> 
 ![상점기본정보](img/info.png "상점기본정보")
 Legacy Tokens 생성 버튼이 보이지 않는다면, 아래의OAuth Tokens을 등록해서 시도해주세요.
