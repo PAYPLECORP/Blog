@@ -81,12 +81,31 @@ Redirect URLs에 복사한 Webhook URL을 붙여넣어줍니다.<br>
 Redirect URLs이 등록된 것을 확인합니다.<br>
 ![9](img/9.png "9")
 
-5. 
+5. Scopes 등록하기<br>
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Scopes<br>
+OAuth Scope에 channels:read/chat:write/chat:write.public/incoming-webhook를 추가합니다.<br>
+![10](img/10.png "10")
+![11](img/11.png "11")
 
+6. User Token Scopes 등록하기<br>
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Scopes > User Token Scopes
+<br>
+User Token Scopes에 chat:write를 추가합니다.<br>
+![12](img/12.png "12")
+![13](img/13.png "13")
 
+7.APP 재설치하기<br>
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > OAuth Tokens & Redirect URLs
+<br>
+APP을 재설치합니다.<br>
+![14](img/14.png "14")
+![15](img/15.png "15")
 
-
-
+7-1.OAuth Tokens 발급 확인
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > OAuth Tokens & Redirect URLs
+<br>
+OAuth Tokens발급이 완료되었습니다. 이제 주소를 복사해서 페이플 관리자에 등록하세요.<br>
+![16](img/16.png "16")
 
 
 ## 문의  
