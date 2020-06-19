@@ -38,7 +38,7 @@
 * Username : 알림을 보내는 사용자명을 입력해주세요. Full name, Display name 모두 가능합니다.<br>
 * Token은 Legacy Tokens과 OAuth Tokens 모두 등록 및 사용 가능합니다.
 
--Legacy Tokens은 신규발급이 중단되어 기존 Legacy Tokens을 사용했던 사용자만 이용할 수 있습니다.
+-Legacy Tokens은 신규발급이 중단되어 기존 Legacy Tokens을 사용했던 사용자만 이용할 수 있습니다.<br>
 -OAuth Tokens은 신규 이용자가 이용할 수 있습니다.
 
 
@@ -47,10 +47,10 @@
 Legacy Tokens 생성 버튼이 보이지 않는다면, 아래의OAuth Tokens을 등록해서 시도해주세요.
 ![상점기본정보](img/info.png "상점기본정보")
 
-## 슬랙으로 결제 리포트 알림 받기 - OAuth Tokens 생성 및 등록방법
+## OAuth Tokens 생성 및 등록방법
 1. 
 
-(img/1.png "1")
+![1](img/1.png "1")
 
 
 
