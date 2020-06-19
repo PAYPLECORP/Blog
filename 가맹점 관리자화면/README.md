@@ -88,7 +88,7 @@ OAuth Scope에 channels:read/chat:write/chat:write.public/incoming-webhook를 �
 ![10](img/10.png "10")
 ![11](img/11.png "11")
 
-6. User Token Scopes 등록하기<br>
+### 6. User Token Scopes 등록하기
 <경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Scopes > User Token Scopes
 <br>
 User Token Scopes에 chat:write를 추가합니다.
