@@ -51,54 +51,54 @@
 ## OAuth Tokens 생성 및 등록방법
 ### APP 생성하기
 [Create APP](https://api.slack.com/apps) 버튼을 눌러 APP을 생성합니다.<br/><br/>
-![1](img/1.png "1")<br/><br/>
-![2](img/2.png "2")<br/><br/>
+<kbd>![1](img/1.png "1")</kbd><br/><br/>
+<kbd>![2](img/2.png "2")</kbd><br/><br/>
 
 ### APP 생성 완료화면
 APP을 생성하면 다음과 같은 화면이 노출됩니다.<br/><br/>
-![3](img/3.png "3")<br/><br/>
+<kbd>![3](img/3.png "3")</kbd><br/><br/>
 
 ### Incoming Webhooks 활성화하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > Incoming Webhooks`  
 Incoming Webhooks를 활성화합니다.<br/><br/>
-![4](img/4.png "4")<br/><br/>
+<kbd>![4](img/4.png "4")</kbd><br/><br/>
 
 ### Add New Webhoook to Workspace를 추가하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > Incoming Webhooks`  
 Add New Webhoook to Workspace를 추가합니다.<br/><br/>
-![5](img/5.png "5")<br/><br/>
-![6](img/6.png "6")<br/><br/>
+<kbd>![5](img/5.png "5")</kbd><br/><br/>
+<kbd>![6](img/6.png "6")</kbd><br/><br/>
 
 ### Webhook URL 생성완료 및 복사하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > Incoming Webhooks`  
-![7](img/7.png "7")<br/><br/>
+<kbd>![7](img/7.png "7")</kbd><br/><br/>
 
 ### Redirect URL 추가하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Redirect URLs`  
 Redirect URLs에 복사한 Webhook URL을 붙여넣어줍니다.<br/><br/>
-![8](img/8.png "8")<br/><br/>
+<kbd>![8](img/8.png "8")</kbd><br/><br/>
 
 ### Redirect URL 설정확인
 Redirect URLs이 등록된 것을 확인합니다.<br/><br/>
-![9](img/9.png "9")<br/><br/>
+<kbd>![9](img/9.png "9")</kbd><br/><br/>
 
 ### Scopes 등록하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Scopes`  
 OAuth Scope에 channels:read/chat:write/chat:write.public/incoming-webhook를 추가합니다.<br/><br/>
-![10](img/10.png "10")<br/><br/>
-![11](img/11.png "11")<br/><br/>
+<kbd>![10](img/10.png "10")</kbd><br/><br/>
+<kbd>![11](img/11.png "11")</kbd><br/><br/>
 
 ### User Token Scopes 등록하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Scopes > User Token Scopes`  
 User Token Scopes에 chat:write를 추가합니다.<br/><br/>
-![12](img/12.png "12")<br/><br/>
-![13](img/13.png "13")<br/><br/>
+<kbd>![12](img/12.png "12")</kbd><br/><br/>
+<kbd>![13](img/13.png "13")</kbd><br/><br/>
 
 ### APP 재설치하기
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > OAuth Tokens & Redirect URLs`  
 APP을 재설치합니다.<br/><br/>
-![14](img/14.png "14")<br/><br/>
-![15](img/15.png "15")<br/><br/>
+<kbd>![14](img/14.png "14")</kbd><br/><br/>
+<kbd>![15](img/15.png "15")</kbd><br/><br/>
 
 ### OAuth Tokens 발급 확인
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > OAuth Tokens & Redirect URLs`  
