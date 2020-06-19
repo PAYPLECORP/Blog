@@ -44,17 +44,28 @@
 
 ## 슬랙으로 결제 리포트 알림 받기 - Legacy Tokens 생성 및 등록방법
 [Slack Legacy Tokens](https://api.slack.com/custom-integrations/legacy-tokens)에서 생성이 가능합니다.<br><br> 
-Legacy Tokens 생성 버튼이 보이지 않는다면, 아래의OAuth Tokens을 등록해서 시도해주세요.
 ![상점기본정보](img/info.png "상점기본정보")
+Legacy Tokens 생성 버튼이 보이지 않는다면, 아래의OAuth Tokens을 등록해서 시도해주세요.
+
 
 ## OAuth Tokens 생성 및 등록방법
-1. 
-
+1. APP 생성하기
+<경로>
+[Create APP](https://api.slack.com/apps) 버튼을 눌러 APP을 생성합니다.<br>
 ![1](img/1.png "1")
+![2](img/1.png "2")
 
+1-1. APP 생성 완료화면
+APP을 생성하면 다음과 같은 화면이 노출됩니다.<br>
+![3](img/1.png "3")
 
+2. Incoming Webhooks 활성화하기
+Incoming Webhooks를 활성화합니다.<br>
+![4](img/1.png "3")
 
-
+3. Incoming Webhooks 활성화하기
+Incoming Webhooks를 활성화합니다.<br>
+![4](img/1.png "3")
 
 
 
