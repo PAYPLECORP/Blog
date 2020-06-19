@@ -64,20 +64,24 @@ Incoming Webhooks를 활성화합니다.<br>
 ![4](img/4.png "4")
 
 3. Incoming Webhooks 활성화하기<br>
-Incoming Webhooks를 활성화합니다.<br>
-![4](img/5.png "5")
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > Incoming Webhooks<br>
+Add New Webhoook to Workspace를 추가합니다.<br>
+![5](img/5.png "5")
+![6](img/6.png "6")
 
+3-1. Webhook URL 생성완료 및 복사하기<br>
+![7](img/7.png "7")
 
+4. Redirect URL 추가하기<br>
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > Redirect URLs<br>
+Redirect URLs에 복사한 Webhook URL을 붙여넣어줍니다.<br>
+![8](img/8.png "8")
 
+4-1. Redirect URL 설정확인<br>
+Redirect URLs이 등록된 것을 확인합니다.<br>
+![9](img/9.png "9")
 
-
-
-
-
-
-
-
-
+5. 
 
 
 
