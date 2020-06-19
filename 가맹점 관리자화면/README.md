@@ -49,23 +49,23 @@ Legacy Tokens 생성 버튼이 보이지 않는다면, 아래의OAuth Tokens을 
 
 
 ## OAuth Tokens 생성 및 등록방법
-1. APP 생성하기
-<경로>
+1. APP 생성하기<br>
 [Create APP](https://api.slack.com/apps) 버튼을 눌러 APP을 생성합니다.<br>
 ![1](img/1.png "1")
-![2](img/1.png "2")
+![2](img/2.png "2")
 
 1-1. APP 생성 완료화면
 APP을 생성하면 다음과 같은 화면이 노출됩니다.<br>
-![3](img/1.png "3")
+![3](img/3.png "3")
 
-2. Incoming Webhooks 활성화하기
+2. Incoming Webhooks 활성화하기<br>
+<경로> https://api.slack.com/apps > 앱선택 > Settings > Features > Incoming Webhooks<br>
 Incoming Webhooks를 활성화합니다.<br>
-![4](img/1.png "3")
+![4](img/4.png "4")
 
-3. Incoming Webhooks 활성화하기
+3. Incoming Webhooks 활성화하기<br>
 Incoming Webhooks를 활성화합니다.<br>
-![4](img/1.png "3")
+![4](img/5.png "5")
 
 
 
