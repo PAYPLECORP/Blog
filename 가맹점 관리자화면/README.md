@@ -103,7 +103,7 @@ APP을 재설치합니다.<br/><br/>
 ### OAuth Tokens 발급 확인
 `[경로] https://api.slack.com/apps > 앱선택 > Settings > Features > OAuth&Permissions > OAuth Tokens & Redirect URLs`  
 OAuth Tokens발급이 완료되었습니다. 이제 주소를 복사해서 페이플 관리자에 등록하세요.<br/><br/>
-![16](img/16.png "16")<br/><br/>
+<kbd>![16](img/16.png "16")</kbd><br/><br/>
 
 
 ## 문의  
