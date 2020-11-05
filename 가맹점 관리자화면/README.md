@@ -36,7 +36,8 @@
 * Workspace : 팀에서 이용 중인 슬랙 Workspace를 입력해주세요. (예: payple.slack.com 에서 payple 이 Workspace 입니다.)<br>
 * Channel : 알림을 받을 채널을 입력해주세요. (예: # 뒤의 채널명을 입력해주세요. general, random 등)<br>
 * Username : 알림을 보내는 사용자명을 입력해주세요. Full name, Display name 모두 가능합니다.<br>
-* Token은 Legacy Tokens과 OAuth Tokens 모두 등록 및 사용 가능합니다.
+* Token은 Legacy Tokens과 OAuth Access Tokens 모두 등록 및 사용 가능합니다.
+  (Bot User OAuth Access Token 은 사용하지 않습니다.)
 
 -Legacy Tokens은 신규발급이 중단되어 기존 Legacy Tokens을 사용했던 사용자만 이용할 수 있습니다.<br>
 -OAuth Tokens은 신규 이용자가 이용할 수 있습니다.
